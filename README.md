@@ -28,8 +28,8 @@ One of the most important aspects of programming is writing code that is readabl
 - [Questions](#questions)
 
 ## Screenshots
-<img src="./assets/img1.png" alt="se-team-generator"/>
-<img src="./assets/img2.png" alt="se-team-generator"/>
+/Users/hilaryvalencia-walsh/code/console-demo/se-team-generator/Assets/img1.png
+/Users/hilaryvalencia-walsh/code/console-demo/se-team-generator/Assets/img2.png
 
 ## Installation
 Download or clone the repo, then use a CLI and run the `npm install` command.
