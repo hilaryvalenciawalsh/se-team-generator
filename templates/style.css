@@ -1,0 +1,14 @@
+.card-header {
+max-width: 18rem;
+height: 14rem;
+color: white;
+}
+
+.team-heading {
+    background-color: blue;
+    color: white;
+    font-weight: bolder;
+}
+.employee-card {
+    display: inline-block;
+}
