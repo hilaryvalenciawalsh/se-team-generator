@@ -22,8 +22,6 @@ One of the most important aspects of programming is writing code that is readabl
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Additional Information](#additional-information)
-- [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
@@ -39,12 +37,6 @@ Run the application with the CLI command node app.js and follow the prompts.
 
 ## Testing
 Run the tests using the CLI command `npm test`.
-
-## Additional Information
-
-
-## License
-This project is licensed under the MIT License - see the [license.txt](https://github.com/hilaryvalenciawalsh/se-team-generator/blob/master/license.txt) file for details
 
 ## Contributing
 This is the code of conduct, and the process for pull requests.
